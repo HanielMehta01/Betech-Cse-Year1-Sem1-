@@ -1,1 +1,2 @@
-This is just to learn how to use VS Code 
+This is to learn how to use VS Code 
+Author - Haniel Mehta
