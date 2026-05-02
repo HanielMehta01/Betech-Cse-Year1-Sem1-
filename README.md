@@ -1,3 +1,3 @@
 This is to learn how to use VS Code 
-<br>
-Author - Haniel Mehta
+<br><hr>
+Author - <b>Haniel Mehta</b>
